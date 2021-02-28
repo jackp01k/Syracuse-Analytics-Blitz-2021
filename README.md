@@ -1,5 +1,9 @@
 # 2021 Syracuse Analytics Blitz - University of Oklahoma Presentation
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2RykHbNi3ws/0.jpg)](https://www.youtube.com/watch?v=2RykHbNi3ws)
+
+Click the image to watch our presentation!
+
 This was a blast to put together. The prompt was received on Thursday, February 18th 2021 and we had a 20 minute presentation on our solution 
 due at 8pm CT Thursday, February 25th 2021.
 
