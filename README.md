@@ -15,7 +15,7 @@ due at 8pm CT Thursday, February 25th 2021.
 
 ## The Solution
 
-After initially attempting logistic regression in order to predict rates, we decided to go with an "observed" approach. To this end, we needed to identify situations in a game and analyze how teams had historically performed in these situations. This led us on a search for the definition of "situation." Once we could identify specific game situations, we would filter the larger play-by-play dataset into plays occuring only in a specific situation, and this would allow us to perform analysis on how teams performed. 
+After initially attempting logistic regression in order to predict rates, we decided to go with an "observed" approach. To this end, we needed to identify situations in a game and analyze how teams had historically performed in these situations. This led us on a search for the definition of "situation." Once we could identify specific game situations, we would filter the larger play-by-play dataset into plays occuring only in a specific situation, and this would allow us to perform analysis on how teams performed. Can you gather that we spent a lot of time thinking about the word "situation"?
 
 ### Defining Situation
 
